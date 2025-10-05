@@ -8,7 +8,7 @@ const interactAudio = new Audio('/sounds/interact.mp3');
 const donateAudio = new Audio('/sounds/donate.mp3');
 
 // Image paths (from public/)
-const backgroundImage = process.env.PUBLIC_URL + '/images/background.jpg';
+const backgroundImage = process.env.PUBLIC_URL + '/images/background.png';
 const defaultStallImage = process.env.PUBLIC_URL + '/images/stall.png';
 
 
